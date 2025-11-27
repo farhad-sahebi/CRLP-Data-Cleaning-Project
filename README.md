@@ -6,13 +6,12 @@ This project focuses on cleaning, and validating, the CDC Member List (Tool 1) a
 The analysis was performed in R, following a professional data-cleaning pipeline and using advanced visualizations.
 
 CRLP-Data-Cleaning-Project/
-|
-├── data_raw/           # Original dataset (not uploaded due to sensitivity)
-├── data_cleaned/       # Cleaned CSV + RDS dataset
-├── r_scripts/          # R scripts used for cleaning and visualization
-├── plots/              # High-resolution PNG visualizations
-├── screenshots/        # RStudio screenshots for project steps
-└── README.md           # Project documentation
+- data_raw/           # Original dataset (not uploaded due to sensitivity)
+- data_cleaned/       # Cleaned CSV + RDS dataset
+- r_scripts/          # R scripts used for cleaning and visualization
+- plots/              # High-resolution PNG visualizations
+- screenshots/        # RStudio screenshots for project steps
+- README.md           # Project documentation
 
 Project Objectives
 
